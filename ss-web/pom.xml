@@ -53,16 +53,13 @@
     <snapshotRepository>
         <id>central</id>
         <name>RAJESH-KUMAR-snapshots</name>
-        <url>http://192.168.0.3:8087/artifactory/ext-snapshot-local</url> 
-		<repository>
+        <url>http://192.168.0.3:8087/artifactory/ext-snapshot-local</url>
+    </snapshotRepository>
+	<repository>
         <id>central</id>
         <name>RAJESH-KUMAR-releases</name>
         <url>http://192.168.0.3:8087/artifactory/ext-release-local</url>
     </repository>
-</distributionManagement>
-		
-  
-    </snapshotRepository>
 	
 </distributionManagement>
 

@@ -51,6 +51,7 @@
 			<artifactId>tomcat-dbcp</artifactId>
 		</dependency>
 	</dependencies>
+	<distributionManagement>
 	    <snapshotRepository>
         <id>central</id>
         <name>RAJESH-KUMAR-snapshots</name>

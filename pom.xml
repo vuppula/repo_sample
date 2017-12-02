@@ -14,6 +14,7 @@
 		<developerConnection>scm:git:git@github.com:vuppula/repo_sample.git</developerConnection>
 	  <tag>rajesh-2.0</tag>
   </scm>
+  
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>

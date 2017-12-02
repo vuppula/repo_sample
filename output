@@ -1,0 +1,46 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building rajesh 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ rajesh ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\RAJESH\Desktop\galaxy\rajesh\src\main\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ rajesh ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ rajesh ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\RAJESH\Desktop\galaxy\rajesh\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ rajesh ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ rajesh ---
+[INFO] Surefire report directory: C:\Users\RAJESH\Desktop\galaxy\rajesh\target\surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running vuppula.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec
+
+Results :
+
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ rajesh ---
+[INFO] 
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ rajesh ---
+[INFO] Installing C:\Users\RAJESH\Desktop\galaxy\rajesh\target\rajesh-1.0-SNAPSHOT.jar to C:\Users\RAJESH\Desktop\repo_artifacts\vuppula\rajesh\1.0-SNAPSHOT\rajesh-1.0-SNAPSHOT.jar
+[INFO] Installing C:\Users\RAJESH\Desktop\galaxy\rajesh\pom.xml to C:\Users\RAJESH\Desktop\repo_artifacts\vuppula\rajesh\1.0-SNAPSHOT\rajesh-1.0-SNAPSHOT.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 4.967 s
+[INFO] Finished at: 2017-12-01T00:11:40+05:30
+[INFO] Final Memory: 7M/18M
+[INFO] ------------------------------------------------------------------------

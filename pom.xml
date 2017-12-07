@@ -49,5 +49,5 @@
         <name>RAJESH-KUMAR-snapshots</name>
         <url>http://localhost:8087/artifactory/BANKING</url>
     </snapshotRepository>
-</distributionManagement> -->
+</distributionManagement>-->
 </project>
